@@ -63,4 +63,3 @@ if st.session_state.data:
     st.dataframe(df)
 else:
     st.info("Все още няма попълнени анкети.")
-
